@@ -7,9 +7,11 @@
         <basic_auth_user/>
         <content/>
         <function_name>get</function_name>
+        <http_method/>
         <lock>false</lock>
         <oauth2_profile/>
         <protocol_name/>
+        <qualified_name>Weather [ get ]</qualified_name>
         <rest_endpoint>http://api.openweathermap.org/data/2.5/weather</rest_endpoint>
         <rest_message display_value="Weather">aa48c15fc3221200f7d1ca3adfba8ff4</rest_message>
         <sys_class_name>sys_rest_message_fn</sys_class_name>
